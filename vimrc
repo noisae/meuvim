@@ -20,7 +20,6 @@ call vundle#rc()
 Bundle 'https://github.com/mileszs/ack.vim.git'
 
 " Jade
-" Jade
 Bundle 'https://github.com/digitaltoad/vim-jade.git'
 
 " Navegador para os buffers abertos
